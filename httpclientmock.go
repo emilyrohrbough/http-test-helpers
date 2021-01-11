@@ -1,4 +1,4 @@
-package httpclientmock
+package httptesthelpers
 
 import (
 	"errors"
